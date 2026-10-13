@@ -1,0 +1,40 @@
+research_notes.txt
+last edited: 14 Oct 2026, 02:44 IST
+=====================================
+
+---- how to read the broken thesis ----
+Thesis_Final.pdf will not open. I broke it on purpose, but the text
+inside it is still there if you look at the raw bytes (a hex editor, or
+anything that prints readable strings from a binary file).
+
+The decoded text gives the password for Thesis_Final_v2.pdf.
+Use it to open v2. The details are in there.
+
+---- log, 13-14 Oct ----
+13 Oct, evening
+ - survey batch 7 export looks wrong. token never changes between surveys.
+ - the "anonymous" form still records hostel block + submit time.
+14 Oct, 01:32  opened MIRROR admin view
+14 Oct, 01:47  opened one student record to check the token against the
+               registry. matched on the first try. that should not be possible.
+14 Oct, 02:13  there is an outbound transfer I didn't start. checked the
+               destination. not a university address.
+14 Oct, 02:31  pushed notes to the repo, then removed the obvious ones
+14 Oct, 02:39  message from "orion-review-17". told me to stop working on
+               it and not share it with anyone.
+
+---- things people will get wrong about this ----
+- AJ told me to stop. he was sharp and frightened me. but he is the
+  reason the external review exists. (I think. ask him.)
+- my login shows up in the MIRROR query log, every line of it. I know how
+  that looks. compare WHEN my first query happens with the first export.
+- the export on the 14th was not mine. I opened one record and ran one filtered
+  list to check it wasn't a fluke. I never started that transfer.
+- someone else is in my repo. only AJ and I should have access.
+- "orion-review-17" is only an account name. it does not mean the message came
+  from anyone at ORION. work out who is behind it.
+
+---- TODO ----
+- split the rest across places they wouldn't think to look
+- don't keep anything obvious on this machine
+- leave a way for someone patient to put it together
