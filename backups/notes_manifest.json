@@ -1,0 +1,7 @@
+{
+  "case": "MIRROR",
+  "artifact": "notes_manifest.json",
+  "status": "archived",
+  "description": "Manifest of investigation notes retained during backup validation.",
+  "last_verified": "2026-10-13T16:05:00+05:30"
+}
