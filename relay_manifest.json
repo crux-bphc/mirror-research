@@ -1,0 +1,9 @@
+{
+  "batch_id": "RLY-20261014-0213",
+  "source": "MIRROR",
+  "destination": "ORION-RELAY",
+  "record_count": 1248,
+  "started_at": "2026-10-14T02:13:00+05:30",
+  "finished_at": "2026-10-14T02:14:00+05:30",
+  "status": "completed"
+}
